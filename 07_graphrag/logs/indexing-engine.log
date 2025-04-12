@@ -1,0 +1,18 @@
+18:08:36,512 graphrag.cli.index INFO Logging enabled at /Users/adriandelpozo/Desktop/MSc_BIG_DATA/ANÁLISIS_DE_DATOS_NO_ESTRUCTURADOS/TEXT/graphrag_book/logs/indexing-engine.log
+18:08:37,880 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+18:08:38,26 httpx INFO HTTP Request: POST http://localhost:1234/v1/embeddings/embeddings "HTTP/1.1 200 OK"
+18:09:59,69 graphrag.cli.index INFO Logging enabled at /Users/adriandelpozo/Desktop/MSc_BIG_DATA/ANÁLISIS_DE_DATOS_NO_ESTRUCTURADOS/TEXT/graphrag_book/logs/indexing-engine.log
+18:09:59,880 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+18:09:59,920 httpx INFO HTTP Request: POST http://localhost:1234/v1/embeddings/embeddings "HTTP/1.1 200 OK"
+18:10:30,173 graphrag.cli.index INFO Logging enabled at /Users/adriandelpozo/Desktop/MSc_BIG_DATA/ANÁLISIS_DE_DATOS_NO_ESTRUCTURADOS/TEXT/graphrag_book/logs/indexing-engine.log
+18:10:30,941 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+18:10:30,986 httpx INFO HTTP Request: POST http://localhost:1234/v1/embeddings/embeddings "HTTP/1.1 200 OK"
+18:11:59,623 graphrag.cli.index INFO Logging enabled at /Users/adriandelpozo/Desktop/MSc_BIG_DATA/ANÁLISIS_DE_DATOS_NO_ESTRUCTURADOS/TEXT/graphrag_book/logs/indexing-engine.log
+18:12:00,431 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+18:12:00,478 httpx INFO HTTP Request: POST http://localhost:1234/v1/embeddings/embeddings "HTTP/1.1 200 OK"
+18:12:16,946 graphrag.cli.index INFO Logging enabled at /Users/adriandelpozo/Desktop/MSc_BIG_DATA/ANÁLISIS_DE_DATOS_NO_ESTRUCTURADOS/TEXT/graphrag_book/logs/indexing-engine.log
+18:12:17,630 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+18:12:17,675 httpx INFO HTTP Request: POST http://localhost:1234/v1/embeddings/embeddings "HTTP/1.1 200 OK"
+18:16:34,368 graphrag.cli.index INFO Logging enabled at /Users/adriandelpozo/Desktop/MSc_BIG_DATA/ANÁLISIS_DE_DATOS_NO_ESTRUCTURADOS/TEXT/graphrag_book/logs/indexing-engine.log
+18:16:36,934 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+18:16:36,981 httpx INFO HTTP Request: POST http://localhost:1234/v1/embeddings/embeddings "HTTP/1.1 200 OK"
