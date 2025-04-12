@@ -34,6 +34,22 @@ Bibliophile's Nexus nace de la pasión por la literatura y la curiosidad por exp
 
 Cada módulo del proyecto se ha diseñado para abordar un aspecto específico del análisis literario, combinando métodos tradicionales con técnicas de vanguardia en procesamiento de lenguaje natural.
 
+
+---
+
+<div style="background-color:#ffe6e6; padding: 10px; border: 1px solid #ff0000;">
+  <strong style="color:#ff0000;">¡ATENCIÓN!</strong><br><br>
+  No hemos podido incluir en el repositorio las carpetas <strong>“datasets”</strong> y <strong>“modelos”</strong> debido a restricciones de tamaño en Git LFS. Estas carpetas, que se encuentran en la raíz del proyecto, contienen archivos grandes que no se pudieron subir. Puedes acceder a ellas mediante los siguientes enlaces:<br><br>
+  
+  <strong>datasets:</strong> [Acceso a datasets](https://upcomillas-my.sharepoint.com/:f:/r/personal/202413514_alu_comillas_edu/Documents/datasets?csf=1&web=1&e=nM39Yh)<br>
+  <strong>modelos:</strong> [Acceso a modelos](https://upcomillas-my.sharepoint.com/:u:/g/personal/202413514_alu_comillas_edu/Ec33eEeFiANMlm10lHKfSMsB9L4cHdAkRFD2uMAf6cZKQw?e=6GnIfS)
+</div>
+
+<br>
+
+Además, el proyecto completo —incluyendo las carpetas <strong>“datasets”</strong> y <strong>“modelos”</strong>— se puede descargar desde:<br>
+[Descarga completa del proyecto](https://upcomillas-my.sharepoint.com/:u:/g/personal/202413514_alu_comillas_edu/EdMEgEKd_t1NoALzKsKqIGsBfsB8xbFEqQBjBtL-VmJ6eg?e=3VZfBi)
+
 ---
 
 ### 1. Análisis Exploratorio de Datos (EDA)
