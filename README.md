@@ -163,6 +163,8 @@ En nuestro proyecto, el análisis del error se ha centrado en el clasificador ba
 ---
 
 ## Estructura del Proyecto
+
+```
 Bibliophile's Nexus/
 ├── 01_EDA.ipynb
 ├── 02_tf_idf.ipynb
@@ -210,6 +212,7 @@ Bibliophile's Nexus/
 ├── 05_app_clasificadores.py
 ├── 06_app_transformers.py
 └── requirements.txt
+```
 
 ---
 
